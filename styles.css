@@ -1,0 +1,13 @@
+/*this is my css file*/
+
+/*styles of tags*/
+html{
+  background-color: silver;
+  font-family: 'Chilanka', cursive, serif;
+}
+h1{
+  color: black;
+}
+h2{
+  color: gold
+}
